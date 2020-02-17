@@ -14,10 +14,4 @@ echo 000001;
 echo 000002;
 
 
-<<<<<<< Updated upstream
-echo 66778899;
-
-=======
-echo 999999;
->>>>>>> Stashed changes
 
