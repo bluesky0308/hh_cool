@@ -1,1 +1,1 @@
-我是master忽略的文件
+我是hh_ignore_demo2忽略的文件
